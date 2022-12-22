@@ -1,0 +1,17 @@
+body {
+    background-image: url(https://www.meme-arsenal.com/memes/620a1be45ca365cffabe024f54b3b216.jpg); /* Путь к фоновому изображению */
+    background-color: #c7b39b; /* Цвет фона */
+   }
+p {
+    background-color: rgba(169, 169, 169, 0.51);
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+li{
+    
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+button{
+    color: rgb(60, 2, 253);
+}
